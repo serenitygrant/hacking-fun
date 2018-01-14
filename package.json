@@ -1,0 +1,23 @@
+{
+  "name": "hacking-fun",
+  "version": "1.0.0",
+  "description": "Fun hacking problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serenitygrant/hacking-fun.git"
+  },
+  "author": "Leah Spontaneo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serenitygrant/hacking-fun/issues"
+  },
+  "homepage": "https://github.com/serenitygrant/hacking-fun#readme",
+  "devDependencies": {
+    "moment": "^2.20.1",
+    "moment-range": "^3.1.0"
+  }
+}
